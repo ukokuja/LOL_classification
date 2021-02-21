@@ -13,3 +13,8 @@ Notes:
 Developers:
 ------------
 * Lucas Kujawski  000331506 
+
+git: https://github.com/ukokuja/LOL_classification
+
+
+video: https://youtu.be/H2rCZSRSx-4

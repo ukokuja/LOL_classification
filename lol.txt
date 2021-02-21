@@ -1,0 +1,73 @@
+League of Legends (abbreviated LoL or League) is a 2009 multiplayer online battle arena video game developed and published by Riot Games.
+
+In the game, two teams of five players battle in player versus player combat, with each team occupying and defending their own half of the map. Each of the ten players controls a character, known as a "champion", with unique abilities and differing styles of play. During a match, champions collect experience points to gain levels and purchase items in order to defeat the opposing team. In the game's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their "nexus", a large structure located within it. During the game, the players also fight AI controlled minions, place vision wards to deal with fog of war, and support each other with healing and shielding abilities.
+
+https://na.leagueoflegends.com/en-us/
+
+gameId
+Unique Riot game ID.
+
+gameDuraton
+continuous
+Game Duration(seconds)
+
+blueWardPlaced
+continuous
+blue team ward placed counts(Number of warding totems)
+
+
+blueWardkills
+continuous
+blue team ward killed counts(Number of warding killed)
+
+blueTotalMinionKills
+continuous
+blue team kill minion counts (includign jungle)
+
+blueJungleMinionKills
+continuous
+blue team kill jungle minion counts
+
+blueTotalHeal
+continuous
+blue team heal amounts
+
+redWardPlaced
+continuous
+red team ward placed counts(Number of warding totems)
+
+redWardkills
+continuous
+red team ward killed counts(Number of warding killed)
+
+redTotalMinionKills
+continuous
+blue team kill minion counts (includign jungle)
+
+redJungleMinionKills
+continuous
+blue team kill jungle minion counts
+
+redTotalHeal
+continuous
+red team heal amounts
+
+FirstBlood
+categorical - Red/Blue	
+Which team got the first kill of an enemy champion
+
+FirstTower	
+categorical - Red/Blue
+Which team first destroyed an enemy turret
+
+FirstBaron	
+categorical - Red/Blue
+Which team first killed Baron Nashor
+
+FirstDragon
+categorical - Red/Blue
+Which team forst killed a Dragon
+
+win
+Target Class - Red/Blue
+Who won the game
